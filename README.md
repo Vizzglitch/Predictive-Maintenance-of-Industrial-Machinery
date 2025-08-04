@@ -1,2 +1,3 @@
 # Predictive-Maintenance-of-Industrial-Machinery
 IBM  cloud project details with all the required project files.
+Maintenance of Industrial Machines is crucial for a Manufacturing Company. Machine Failure can be predicted by certain parameters like tool wear, rotational speed, heat dissipation and torque. Machines can be fitted with sensors which collect data for these parameters. This sensor data must be analysed to identify patters that precede a failure. The crucial part is to create a classification model that can predict the type of failure is (e.g., tool wear, heat dissipation, power failure). This will enable proactive maintenance, reducing downtime and operational costs.
